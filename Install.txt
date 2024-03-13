@@ -1,0 +1,32 @@
+READ ME
+
+Note to do before execution:
+
+-----Step1
+		VS code -> new terminal  -> Command Prompt  -> COMMAND
+ 	    
+		pip install virtualenvwrapper-win
+
+-----Step2
+		In command prompt COMMAND
+		(path of the folder)
+
+		cluster_env\Scripts\activate 
+
+-----Step3
+		run program 
+		add the csv relative path in console 
+
+		example:--  python file_name.python
+
+
+
+
+Note: 
+1 >>>>After the above step the resultant ouput should be like (in terminal)
+		"""   (cluster_env) C:\Users\Divyam Padole\Desktop\clustering>python file_name.py  """	
+
+2 >>>>first 2 step 1 time only then direct the python file run
+
+
+
